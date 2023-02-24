@@ -1,0 +1,3 @@
+*.js @gustavolbs
+.github/ @gustavolbs
+*.go @gustavolbs
